@@ -1,7 +1,9 @@
+//all the container variables.
 let list = document.getElementsByClassName("list");
 let cartWindowBox = document.getElementById("cartWindow");
 let shopWindowBox = document.getElementById("shopWindow");
 
+//all the product variables.
 let red = document.getElementById("red");
 let blue = document.getElementById("blue");
 let green = document.getElementById("green");
@@ -12,6 +14,7 @@ let priceBlue = document.getElementById("priceBlue");
 let priceGreen = document.getElementById("priceGreen");
 let pricePurple = document.getElementById("pricePurple");
 
+//total price variable.
 let total = document.getElementById("total");
 
 for(product of list){

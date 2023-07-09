@@ -6,7 +6,7 @@
 
 #container{
     width: 100%;
-    min-height: 100vh;
+    min-height: 800px;
     background: #28262b;
     display: flex;
     flex-direction: column;
@@ -71,7 +71,7 @@
 p{
     color: #ffffff;
     font-family: 'Press Start 2P';
-    font-size: 12px;
+    font-size: 0.7em;
 }
 
 #title{
@@ -85,7 +85,7 @@ p{
 .list .tooltip{
     background-color: #000000;
     font-family: 'Press Start 2P';
-    font-size: 8px;
+    font-size: 0.5em;
     color: #ffffff;
     width: auto;
     text-align: center;
