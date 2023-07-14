@@ -1,6 +1,7 @@
 # proyecto-bootcamp
 Proyecto final del Bootcamp Programación desde cero.
 Nota: El proyecto final se encuentra en la rama "master".
+Nota 2: Una versión actualizada del proyecto se encuentra en la rama "newmaster".
 
 Hi! This is my final project for the Online Bootcamp "Programación desde cero".
 In this project you will find a little ✨ potion shop ✨ in which you can purchase what you need for your adventure. There is a small variety of potions, but very useful ones!
